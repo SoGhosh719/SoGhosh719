@@ -11,26 +11,7 @@ I'm currently pursuing a **Master of Science in Business Analytics** at **Clark 
 
 🔹 **Data Enthusiast | AI Practitioner | Business Strategist | Educator**  
 🔹 **I love transforming data into actionable insights, building AI-driven solutions, and optimizing business decisions.**  
-
 ---
-
-### 📚 **Education**
-🎓 **Clark University Graduate School of Management** (Worcester, MA)  
-📅 Aug 2023 - Present | **MS in Business Analytics (GPA: 3.53/4.0)**  
-📌 **Relevant Courses**: Data Analysis, Machine Learning, Predictive Analytics, Business Intelligence, Statistical Modeling  
-
-🎓 **Indian Institute of Social Welfare & Business Management** (Kolkata, India)  
-📅 Aug 2018 - Dec 2019 | **PGDM in Business Analytics**  
-📌 **Capstone Project**: *Age Detection of Indian Actors* – Achieved **91% accuracy** using **ML models** on 26,000+ images.  
----
-
-### 🔧 **Technical Skills**
-💻 **Programming**: Python (NumPy, Pandas, Scikit-learn, TensorFlow), R, SQL, JavaScript  
-📊 **Data & ML**: Alteryx, Tableau, Power BI, Hadoop, Apache Spark  
-📈 **NLP & AI**: Hugging Face Transformers, NLTK, SpaCy  
-☁ **Cloud & DevOps**: Microsoft Azure, Google Cloud, Git/GitHub  
-🌐 **Web Development**: HTML, CSS, Flask, Streamlit
-
 🔗 *Explore all my projects on [GitHub](https://github.com/SoGhosh719)*  
 
 ### 🎭 **Beyond Data Science**  
