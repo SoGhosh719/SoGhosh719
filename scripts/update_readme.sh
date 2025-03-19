@@ -3,10 +3,10 @@
 # Fetch latest repositories
 LATEST_REPOS=$(curl -s https://api.github.com/users/SoGhosh719/repos?sort=updated | jq -r '.[0:5] | map("- [\(.name)](\(.html_url))") | .[]')
 
-# Fetch Gotham weather
-WEATHER=$(curl -s "https://wttr.in/New+York?format=3")
+# Fetch Gotham weather (New York)
+WEATHER=$(curl -s "https://wttr.in/New+York?format=%C+%t+%w")
 
-# Debugging: Print the fetched data
+# Debugging: Print fetched data
 echo "Latest Repos:"
 echo "$LATEST_REPOS"
 echo "Weather:"
