@@ -6,8 +6,6 @@ LATEST_REPOS=$(curl -s https://api.github.com/users/SoGhosh719/repos?sort=update
 # Fetch Gotham weather
 WEATHER=$(curl -s "https://wttr.in/New+York?format=3")
 
-# Update the README file
+# Replace placeholders in README.md
 sed -i "s|<!-- LATEST_REPOS -->|$LATEST_REPOS|g" README.md
 sed -i "s|<!-- WEATHER_UPDATE -->|$WEATHER|g" README.md
-
-chmod +x scripts/update_readme.sh
