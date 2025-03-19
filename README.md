@@ -16,9 +16,10 @@
 
 ---
 
-## ☁️ **Gotham City Weather (Updated Every 6 Hours)**  
-🌆 **Weather in Gotham:**  
+## ☁️ **Live Gotham City Weather**  
+🌆 **Current Weather in Gotham:**  
 <!-- WEATHER_UPDATE -->
+![Weather in Gotham](https://wttr.in/New+York.png?m)  
 
 ---
 
