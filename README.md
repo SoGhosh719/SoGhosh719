@@ -1,7 +1,5 @@
 ### 🚀 **Namaste!! I am Soumyabrata Ghosh**  
-📍 Worcester, MA | 📧 [soumyabrata11411@gmail.com](mailto:soumyabrata11411@gmail.com) | 📞 508-353-8921  
-🔗 [LinkedIn](https://www.linkedin.com/in/soumyabrata-ghosh-205673290/) | 🔗 [GitHub](https://github.com/SoGhosh719) | 🌐 [Portfolio](https://soghosh719.github.io/Soumya_Portfolio/#home)
-
+📍 Worcester, MA | 📧 [soumyabrata11411@gmail.com](mailto:soumyabrata11411@gmail.com) | 📞 508-353-8921
 ---
 
 ### 🌟 **About Me**
