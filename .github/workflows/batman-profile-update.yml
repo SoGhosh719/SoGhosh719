@@ -12,33 +12,27 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate README Content
+      - name: Install Dependencies
+        run: sudo apt-get install jq curl -y
+
+      - name: Fetch Latest Repositories
         run: |
-          echo "# 🦇 The Dark Knight's GitHub Profile" > README.md
-          echo "## 🚀 Gotham's Data Crusader" >> README.md
-          echo "![Batman Banner](https://wallpaperaccess.com/full/3962644.jpg)" >> README.md
+          curl -s https://api.github.com/users/SoGhosh719/repos?sort=updated | jq -r '.[0:5] | map("- [\(.name)](\(.html_url))") | .[]' > latest_repos.md
 
-          echo "### 🏙️ Gotham's Latest Missions (Projects)" >> README.md
-          echo "$(curl -s https://api.github.com/users/SoGhosh719/repos?sort=updated | jq -r '.[0:5] | map("- [\(.name)](\(.html_url))") | .[]')" >> README.md
+      - name: Fetch Gotham City Weather
+        run: curl -s "https://wttr.in/New+York?format=3" > weather.md
 
-          echo "" >> README.md
-          echo "### 📊 Dark Mode GitHub Stats" >> README.md
-          echo "![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoGhosh719&show_icons=true&theme=dark&icon_color=yellow)" >> README.md
-
-          echo "" >> README.md
-          echo "### 🔥 GitHub Streak" >> README.md
-          echo "![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=SoGhosh719&theme=highcontrast&fire=yellow&ring=gray)" >> README.md
-
-          echo "" >> README.md
-          echo "### ☁️ Gotham City Weather (Updated Every 6 Hours)" >> README.md
-          echo "\`\`\`" >> README.md
-          curl -s "https://wttr.in/New+York?format=3" >> README.md  # New York as Gotham
-          echo "\`\`\`" >> README.md
+      - name: Update README
+        run: |
+          sed -i '/^## 🏙️ **Latest Missions in Gotham (Projects)**$/,/^---$/c\## 🏙️ **Latest Missions in Gotham (Projects)**\n\n$(cat latest_repos.md)\n\n---' README.md
+          sed -i '/^## ☁️ **Gotham City Weather (Updated Every 6 Hours)**$/,/^---$/c\## ☁️ **Gotham City Weather (Updated Every 6 Hours)**\n\n```\n$(cat weather.md)\n```\n\n---' README.md
 
       - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
-          git add README.md
+          git add README.md latest_repos.md weather.md
           git commit -m "🦇 Auto-update Batman Profile" || exit 0
-          git push
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/SoGhosh719/SoGhosh719.git main
