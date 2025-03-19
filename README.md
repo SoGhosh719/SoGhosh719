@@ -1,6 +1,3 @@
-Here’s your **updated Batman-themed GitHub Profile README** with the **Gotham vibe**, **real-time weather**, and **auto-updating latest repositories**. 🦇🚀
-
-```md
 # 🦇 **Namaste!! I am Soumyabrata Ghosh**  
 ## **Data Enthusiast | AI Practitioner | Business Strategist | Educator**  
 ### **"It's not who I am underneath, but what I do that defines me."**  
@@ -58,9 +55,6 @@ I'm currently pursuing a **Master of Science in Business Analytics** at **Clark 
 
 ```md
 $(curl -s "https://wttr.in/New+York?format=3")
-```
-
-*(Note: This updates dynamically in the GitHub Action!)*  
 
 ---
 
@@ -88,6 +82,9 @@ When I’m not coding, analyzing business problems, or optimizing machine learni
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SoGhosh719&color=yellow)
 ```
+
+---
+
 
 ---
 
