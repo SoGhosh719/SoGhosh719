@@ -16,8 +16,8 @@ I'm currently pursuing a **Master of Science in Business Analytics** at **Clark 
 ### 🎭 **Beyond Data Science**  
 When I’m not coding, analyzing business problems, or optimizing machine learning models, you’ll find me:  
 🍳 **Cooking for 800+ people** at university events (yes, I planned & executed a **Diwali dinner for 800**!)  
-🎭 **Organizing marketing strategies** for cultural events like the **Hanover Theatre**  
-📖 **Mentoring students** in **chemistry & data science**, with many excelling at top universities  
+🎭 **Suggesting marketing strategies** for the **Hanover Theatre** to increase their revenue for their in house production **"The Christmas Carol"**
+📖 **Mentoring students** in **chemistry & data analytics**, with many excelling at top universities  
 
 ---
 
