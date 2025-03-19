@@ -1,10 +1,10 @@
 # 🦇 **Namaste!! I am Soumyabrata Ghosh**  
 ## **Data Enthusiast | AI Practitioner | Business Strategist | Educator**  
-### **"It's not who I am underneath, but what I do that defines me."**  
 
 📍 Worcester, MA | 📧 [soumyabrata11411@gmail.com](mailto:soumyabrata11411@gmail.com) | 📞 508-353-8921  
 
 ![Batman Banner](https://31.media.tumblr.com/227536fb9cfb2ea1f008a11e06b9c535/tumblr_mqrjdif8uo1sczn81o1_500.gif)
+### **"It's not who I am underneath, but what I do that defines me."**  
 
 ---
 
