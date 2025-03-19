@@ -1,5 +1,6 @@
 # 🚀 **Namaste!! I am Soumyabrata Ghosh**  
 ## **Data Enthusiast | AI Practitioner | Business Strategist | Educator** 
+### **I love transforming data into actionable insights, building AI-driven solutions, and optimizing business decisions.** 
 
 📍 Worcester, MA | 📧 [soumyabrata11411@gmail.com](mailto:soumyabrata11411@gmail.com) | 📞 508-353-8921
 ---
@@ -9,7 +10,7 @@ If there's one thing my journey proves, it's that I **thrive on challenges**—w
 
 I'm currently pursuing a **Master of Science in Business Analytics** at **Clark University**, where I apply **data science, machine learning, and predictive analytics** to solve complex business problems. My diverse background spans **insurance, finance, education, and AI-driven automation**, making me a versatile problem solver and an innovative thinker.
 
-🔹 **I love transforming data into actionable insights, building AI-driven solutions, and optimizing business decisions.**  
+ 
 ---
 🔗 *Explore all my projects on [GitHub](https://github.com/SoGhosh719)*  
 
