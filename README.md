@@ -4,7 +4,7 @@
 
 📍 Worcester, MA | 📧 [soumyabrata11411@gmail.com](mailto:soumyabrata11411@gmail.com) | 📞 508-353-8921  
 
-![Batman Banner](https://wifflegif.com/gifs/237296-batglare-batman-gif)
+![Batman Banner](https://31.media.tumblr.com/227536fb9cfb2ea1f008a11e06b9c535/tumblr_mqrjdif8uo1sczn81o1_500.gif)
 
 ---
 
