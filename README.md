@@ -12,12 +12,12 @@
 ## 🏙️ **Latest Missions in Gotham (Projects)**  
 🚀 **Latest Repositories (Auto-Updated Every 6 Hours)**  
 <!-- LATEST_REPOS -->
-🔗 [**See all my projects on GitHub**](https://github.com/SoGhosh719?tab=repositories)
+🔗 [**See all my projects on GitHub**](https://github.com/SoGhosh719?tab=repositories)  
 
 ---
 
 ## ☁️ **Gotham City Weather (Updated Every 6 Hours)**  
-🌆 **Weather in Gotham (New York City):**   
+🌆 **Weather in Gotham (New York City):**  
 <!-- WEATHER_UPDATE -->
 ![Weather in Gotham](https://wttr.in/New+York.png?m)
 
