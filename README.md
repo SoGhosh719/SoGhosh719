@@ -36,7 +36,8 @@ I'm currently pursuing a **Master of Science in Business Analytics** at **Clark 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoGhosh719&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=SoGhosh719&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=SoGhosh719&theme=tokyonight)
+
 
 ---
 
