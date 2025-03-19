@@ -12,9 +12,10 @@ echo "$LATEST_REPOS"
 echo "Weather:"
 echo "$WEATHER"
 
-# Ensure the script runs inside the correct directory
-cd "$(dirname "$0")/.." || exit
+# Escape special characters for sed
+LATEST_REPOS_ESCAPED=$(printf "%s" "$LATEST_REPOS" | sed 's/[\/&]/\\&/g' | sed ':a;N;$!ba;s/\n/\\n/g')
+WEATHER_ESCAPED=$(printf "%s" "$WEATHER" | sed 's/[\/&]/\\&/g' | sed 's/°/ degrees/g' | sed ':a;N;$!ba;s/\n/\\n/g')
 
 # Replace placeholders in README.md
-sed -i "s|<!-- LATEST_REPOS -->|$LATEST_REPOS|g" README.md
-sed -i "s|<!-- WEATHER_UPDATE -->|$WEATHER|g" README.md
+sed -i "s|<!-- LATEST_REPOS -->|$LATEST_REPOS_ESCAPED|g" README.md
+sed -i "s|<!-- WEATHER_UPDATE -->|$WEATHER_ESCAPED|g" README.md
