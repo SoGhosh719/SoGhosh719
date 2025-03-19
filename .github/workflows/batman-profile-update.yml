@@ -8,6 +8,8 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Grants permission to push changes
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -24,15 +26,27 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i '/^## 🏙️ **Latest Missions in Gotham (Projects)**$/,/^---$/c\## 🏙️ **Latest Missions in Gotham (Projects)**\n\n$(cat latest_repos.md)\n\n---' README.md
-          sed -i '/^## ☁️ **Gotham City Weather (Updated Every 6 Hours)**$/,/^---$/c\## ☁️ **Gotham City Weather (Updated Every 6 Hours)**\n\n```\n$(cat weather.md)\n```\n\n---' README.md
+          LATEST_PROJECTS=$(cat latest_repos.md)
+          WEATHER_INFO=$(cat weather.md)
+
+          awk -v projects="$LATEST_PROJECTS" '
+            /^## 🏙️ \*\*Latest Missions in Gotham \(Projects\)\*\*/ {print; print projects; next} 
+            /^---$/ && p {print; p=0; next} 
+            !p {print}
+          ' README.md > temp.md && mv temp.md README.md
+
+          awk -v weather="$WEATHER_INFO" '
+            /^## ☁️ \*\*Gotham City Weather \(Updated Every 6 Hours\)\*\*/ {print; print "```\n" weather "\n```"; next} 
+            /^---$/ && p {print; p=0; next} 
+            !p {print}
+          ' README.md > temp.md && mv temp.md README.md
 
       - name: Commit and Push Changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use GitHub's built-in token
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
           git add README.md latest_repos.md weather.md
           git commit -m "🦇 Auto-update Batman Profile" || exit 0
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/SoGhosh719/SoGhosh719.git main
+          git push origin main
