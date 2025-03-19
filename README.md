@@ -1,3 +1,5 @@
+![Gotham City](https://media.giphy.com/media/Q1lyNR9ujqNHi/giphy.gif)
+
 # 🦇 **Namaste!! I am Soumyabrata Ghosh**  
 ## **Data Enthusiast | AI Practitioner | Business Strategist | Educator**  
 
