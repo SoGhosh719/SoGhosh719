@@ -1,3 +1,6 @@
+Here’s your **updated Batman-themed GitHub Profile README** with the **Gotham vibe**, **real-time weather**, and **auto-updating latest repositories**. 🦇🚀
+
+```md
 # 🦇 **Namaste!! I am Soumyabrata Ghosh**  
 ## **Data Enthusiast | AI Practitioner | Business Strategist | Educator**  
 ### **"It's not who I am underneath, but what I do that defines me."**  
@@ -55,3 +58,55 @@ I'm currently pursuing a **Master of Science in Business Analytics** at **Clark 
 
 ```md
 $(curl -s "https://wttr.in/New+York?format=3")
+```
+
+*(Note: This updates dynamically in the GitHub Action!)*  
+
+---
+
+## 🎭 **Beyond Data Science**  
+When I’m not coding, analyzing business problems, or optimizing machine learning models, you’ll find me:  
+🍳 **Cooking for 800+ people** at university events (yes, I planned & executed a **Diwali dinner for 800**!)  
+🎭 **Suggesting marketing strategies** for the **Hanover Theatre** to increase their revenue for their in-house production **"A Christmas Carol"**  
+📖 **Mentoring students** in **chemistry & data analytics**, with many excelling at top universities  
+
+![Coding GIF](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+
+---
+
+## 🏆 **Certifications**
+✔ **PCEP – Certified Entry-Level Python Programmer**  
+✔ **RCR Basic Curriculum (CITI Program, Exp. 2027)**  
+
+---
+
+## 🦇 **Drop the Bat Signal (Contact Me)!**  
+💼 [LinkedIn](https://www.linkedin.com/in/soumyabrata-ghosh-205673290/)  
+💻 [GitHub](https://github.com/SoGhosh719)  
+🌐 [Portfolio](https://soghosh719.github.io/Soumya_Portfolio/#home)  
+📧 [soumyabrata11411@gmail.com](mailto:soumyabrata11411@gmail.com)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=SoGhosh719&color=yellow)
+```
+
+---
+
+## 🔥 **What’s New in This Update?**
+✅ **Batman-Themed Branding** – **Black, Yellow, and Dark Mode** throughout.  
+✅ **Gotham City Weather** – Auto-updates **every 6 hours** with **real-time weather** from **New York (as Gotham)**.  
+✅ **Dark Mode GitHub Stats & Streaks** – High contrast yellow on **dark background** for Batman aesthetics.  
+✅ **Auto-Updated GitHub Repos** – **Your latest projects** refresh automatically.  
+
+---
+
+## 🚀 **Final Steps**
+Now that your README is **Batman-level awesome**, let’s:
+1️⃣ **Commit & push the updated README.md**  
+2️⃣ **Deploy the GitHub Actions script from the previous step** to ensure automatic updates  
+
+Would you like me to add:
+✅ **A “Quote of the Day” from Batman?**  
+✅ **A Batman GIF every day?**  
+✅ **Recent GitHub followers?**  
+
+Let me know how deep into Gotham you want to go! 🦇🔥🚀
