@@ -47,22 +47,29 @@ $(cat latest_repos.md)
 ---
 
 ## ☁️ **Gotham City Weather (Updated Every 6 Hours)**  
-```md
-$(cat weather.md)
-
-🎭 Beyond Data Science
-🍳 Cooking for 800+ people at university events
-🎭 Suggesting marketing strategies for Hanover Theatre's "A Christmas Carol"
-📖 Mentoring students in data analytics & chemistry
 
 
+---
 
-🏆 Certifications
-✔ PCEP – Certified Entry-Level Python Programmer
-✔ RCR Basic Curriculum (CITI Program, Exp. 2027)
+## 🎭 **Beyond Data Science**  
+🍳 **Cooking for 800+ people** at university events  
+🎭 **Suggesting marketing strategies** for **Hanover Theatre's "A Christmas Carol"**  
+📖 **Mentoring students** in **data analytics & chemistry**  
 
-🦇 Drop the Bat Signal (Contact Me)!
-💼 LinkedIn
-💻 GitHub
-🌐 Portfolio
-📧 soumyabrata11411@gmail.com
+![Coding GIF](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+
+---
+
+## 🏆 **Certifications**
+✔ **PCEP – Certified Entry-Level Python Programmer**  
+✔ **RCR Basic Curriculum (CITI Program, Exp. 2027)**  
+
+---
+
+## 🦇 **Drop the Bat Signal (Contact Me)!**  
+💼 [LinkedIn](https://www.linkedin.com/in/soumyabrata-ghosh-205673290/)  
+💻 [GitHub](https://github.com/SoGhosh719)  
+🌐 [Portfolio](https://soghosh719.github.io/Soumya_Portfolio/#home)  
+📧 [soumyabrata11411@gmail.com](mailto:soumyabrata11411@gmail.com)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=SoGhosh719&color=yellow)
