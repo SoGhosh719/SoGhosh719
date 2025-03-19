@@ -22,25 +22,6 @@ I'm currently pursuing a **Master of Science in Business Analytics** at **Clark 
 🎓 **Indian Institute of Social Welfare & Business Management** (Kolkata, India)  
 📅 Aug 2018 - Dec 2019 | **PGDM in Business Analytics**  
 📌 **Capstone Project**: *Age Detection of Indian Actors* – Achieved **91% accuracy** using **ML models** on 26,000+ images.  
-
----
-
-### 💼 **Professional Experience**
-#### **Bharti AXA Life Insurance Co. Ltd** – *Business Operations Manager & Analyst*  
-📅 Oct 2021 - Aug 2022  
-✔ **Implemented AI-driven automation**, increasing productivity by **31%**.  
-✔ Ranked **19th nationally** in Renewal Insurance Collections, leading to a **$52K revenue increase**.  
-
-#### **HDFC Ergo General Insurance Co. Ltd** – *Financial Advisor & Sales Executive*  
-📅 Jul 2019 - Oct 2021  
-✔ Boosted **policy sales by 20%** through data-driven strategies.  
-✔ Consistently **exceeded sales targets by 90%**, optimizing customer retention metrics.  
-
-#### **IIT Kanpur – iSMRITI Intern**  
-📅 Summer 2019  
-✔ Developed a **Flask-based hybrid recommender system**, achieving **86.7% accuracy**.  
-✔ Built an **interactive web interface** for real-time movie recommendations.  
-
 ---
 
 ### 🔧 **Technical Skills**
@@ -48,38 +29,9 @@ I'm currently pursuing a **Master of Science in Business Analytics** at **Clark 
 📊 **Data & ML**: Alteryx, Tableau, Power BI, Hadoop, Apache Spark  
 📈 **NLP & AI**: Hugging Face Transformers, NLTK, SpaCy  
 ☁ **Cloud & DevOps**: Microsoft Azure, Google Cloud, Git/GitHub  
-🌐 **Web Development**: HTML, CSS, Flask, Streamlit  
-
----
-
-### 🚀 **Notable Projects**
-📌 **Hospital Readmission Analysis**  
-🔹 Built **XGBoost models** to predict **high-risk patients (70% readmission rate)**.  
-
-📌 **Market Value Analysis of EPL Players**  
-🔹 Analyzed **player performance and transfer market trends** using ML models.  
-
-📌 **Commodity Price Forecasting**  
-🔹 Achieved **95% accuracy** using a **hybrid ARIMA-Random Forest model**.  
-
-📌 **AI-Powered Resume Analyzer**  
-🔹 Automated **resume screening and candidate matching** using AI.  
-
-📌 **Bonding - Chemistry Community Web Platform**  
-🔹 Built a **real-time chat platform** for chemistry enthusiasts using **Next.js & Firebase**.  
-
-📌 **Twitter Sentiment Analysis**  
-🔹 Developed an **ML-based classifier** for **1.6M tweets**, achieving **66.61% accuracy**.  
+🌐 **Web Development**: HTML, CSS, Flask, Streamlit
 
 🔗 *Explore all my projects on [GitHub](https://github.com/SoGhosh719)*  
-
----
-
-### 🏆 **Certifications**
-✔ **PCEP – Certified Entry-Level Python Programmer**  
-✔ **RCR Basic Curriculum (CITI Program, Exp. 2027)**  
-
----
 
 ### 🎭 **Beyond Data Science**  
 When I’m not coding, analyzing business problems, or optimizing machine learning models, you’ll find me:  
@@ -90,10 +42,4 @@ When I’m not coding, analyzing business problems, or optimizing machine learni
 ---
 
 ### 📫 **Let's Connect!**
-💼 [LinkedIn](https://www.linkedin.com/in/soumyabrata-ghosh-205673290/) | 💻 [GitHub](https://github.com/SoGhosh719) | 🌐 [Portfolio](https://soghosh719.github.io/Soumya_Portfolio/#home)  
-
----
-
-This README ensures a **professional yet engaging** profile, showcasing your **expertise, personality, and impact**. You can update it regularly by adding **new projects, certifications, and experiences**.
-
-Would you like help **automating the profile updates** using **GitHub Actions**? 🚀
+💼 [LinkedIn](https://www.linkedin.com/in/soumyabrata-ghosh-205673290/) | 💻 [GitHub](https://github.com/SoGhosh719) | 🌐 [Portfolio](https://soghosh719.github.io/Soumya_Portfolio/#home) 
