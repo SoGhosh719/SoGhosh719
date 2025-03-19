@@ -11,13 +11,17 @@
 
 ## 🏙️ **Latest Missions in Gotham (Projects)**  
 🚀 **Latest Repositories (Auto-Updated Every 6 Hours)**  
-<!-- LATEST_REPOS -->
+- [SoGhosh719](https://github.com/SoGhosh719/SoGhosh719)
+- [Insurance_database](https://github.com/SoGhosh719/Insurance_database)
+- [2D_to_3D_Floor-Plan](https://github.com/SoGhosh719/2D_to_3D_Floor-Plan)
+- [Vibraille-Object-Detection](https://github.com/SoGhosh719/Vibraille-Object-Detection)
+- [Lucity_Asset_Management_Implementation_Analysis](https://github.com/SoGhosh719/Lucity_Asset_Management_Implementation_Analysis)
 
 ---
 
 ## ☁️ **Live Gotham City Weather**  
 🌆 **Current Weather in Gotham:**  
-<!-- WEATHER_UPDATE -->
+Clear +12 degreesC ↙8km/h
 
 ---
 
