@@ -1,4 +1,4 @@
-![Gotham City](https://media.giphy.com/media/Q1lyNR9ujqNHi/giphy.gif)
+![Gotham City](https://i.redd.it/6n8bsj1ureta1.png)
 
 # 🦇 **Namaste!! I am Soumyabrata Ghosh**  
 ## **Data Enthusiast | AI Practitioner | Business Strategist | Educator**  
