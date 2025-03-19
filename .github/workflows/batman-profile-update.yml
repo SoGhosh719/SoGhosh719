@@ -1,4 +1,4 @@
-name: Batman Profile Auto-Update 🦇
+name: Auto-Update Batman Profile 🦇
 
 on:
   schedule:
@@ -17,36 +17,17 @@ jobs:
       - name: Install Dependencies
         run: sudo apt-get install jq curl -y
 
-      - name: Fetch Latest Repositories
+      - name: Run Update Script
         run: |
-          curl -s https://api.github.com/users/SoGhosh719/repos?sort=updated | jq -r '.[0:5] | map("- [\(.name)](\(.html_url))") | .[]' > latest_repos.md
-
-      - name: Fetch Gotham City Weather
-        run: curl -s "https://wttr.in/New+York?format=3" > weather.md
-
-      - name: Update README
-        run: |
-          LATEST_PROJECTS=$(cat latest_repos.md)
-          WEATHER_INFO=$(cat weather.md)
-
-          awk -v projects="$LATEST_PROJECTS" '
-            /^## 🏙️ \*\*Latest Missions in Gotham \(Projects\)\*\*/ {print; print projects; next} 
-            /^---$/ && p {print; p=0; next} 
-            !p {print}
-          ' README.md > temp.md && mv temp.md README.md
-
-          awk -v weather="$WEATHER_INFO" '
-            /^## ☁️ \*\*Gotham City Weather \(Updated Every 6 Hours\)\*\*/ {print; print "```\n" weather "\n```"; next} 
-            /^---$/ && p {print; p=0; next} 
-            !p {print}
-          ' README.md > temp.md && mv temp.md README.md
+          chmod +x scripts/update_readme.sh
+          ./scripts/update_readme.sh
 
       - name: Commit and Push Changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use GitHub's built-in token
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub auto-token for authentication
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
-          git add README.md latest_repos.md weather.md
+          git add README.md
           git commit -m "🦇 Auto-update Batman Profile" || exit 0
           git push origin main
