@@ -24,6 +24,10 @@
 Clear +12 degreesC ↙8km/h
 
 ---
+🦇 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀  
+⣿⣿⡟⠁⠀⠀⠀⠀⠀⠉⢿⣿⣿⡇  
+⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠋  
+
 
 ## 📈 **The Dark Knight’s GitHub Stats**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoGhosh719&show_icons=true&theme=dark&icon_color=yellow)  
@@ -32,7 +36,6 @@ Clear +12 degreesC ↙8km/h
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoGhosh719&layout=compact&theme=dark&icon_color=yellow)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoumyabrataGhosh&show_icons=true&theme=dark)
 
 ---
 
