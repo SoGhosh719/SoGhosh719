@@ -19,16 +19,6 @@
 
 ---
 
-## ☁️ **Live Gotham City Weather**  
-🌆 **Current Weather in Gotham:**  
-Clear +12 degreesC ↙8km/h
-
----
-🦇 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀  
-⣿⣿⡟⠁⠀⠀⠀⠀⠀⠉⢿⣿⣿⡇  
-⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠋  
-
-
 ## 📈 **The Dark Knight’s GitHub Stats**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoGhosh719&show_icons=true&theme=dark&icon_color=yellow)  
 
