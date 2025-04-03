@@ -33,7 +33,8 @@
 
 ---
 
-## 🦇 `class GothamProtector:`  
+## 🦇 `class GothamProtector:`
+
 ```python
 class GothamProtector:
     def __init__(self):
@@ -53,25 +54,28 @@ class GothamProtector:
                 if self.rage_level > 9000:
                     self.summon_batmobile()
 
-## 🔧 Bat-Tech Inventory
+🔧 Bat-Tech Inventory
+🛠️ Weaponized Skills
+- 🧠 Batarang Neural Nets – YOLO-based object detection
 
-### 🛠️ Weaponized Skills  
-- 🧠 **Batarang Neural Nets** – YOLO-based object detection  
-- 💨 **Cryptographic Smoke Bombs** – AES-256 encryption implementations  
-- 🪝 **Grappling Hook APIs** – RESTful services that never fail  
-- 📡 **Sonar Data Pipelines** – Real-time streaming with Kafka  
-- 🌲 **Utility Belt ML Models** – Random Forests that actually explain themselves  
+- 💨 Cryptographic Smoke Bombs – AES-256 encryption implementations
+
+-🪝 Grappling Hook APIs – RESTful services that never fail
+
+-📡 Sonar Data Pipelines – Real-time streaming with Kafka
+
+-🌲 Utility Belt ML Models – Random Forests that explain themselves
 
 ---
+🚘 Batmobile Upgrades
 
-### 🚘 Batmobile Upgrades  
-```json
 {
   "engine": "PyTorch",
   "armor": "Docker Containers",
   "weapons": ["Pandas DataFrames", "Spark Clusters"],
   "special_feature": "Auto-scaling Kubernetes Pods"
 }
+
 
 ## 🧪 Latest Missions in Gotham (Projects)
 
