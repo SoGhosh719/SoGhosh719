@@ -12,6 +12,12 @@
 > _"It's not who I am underneath, but what I do that defines me."_  
 > _"You either die a noob or live long enough to see yourself become the 10x developer."_
 
+![Batcomputer Bootup](https://i.imgur.com/Ezras4S.png)
+
+```Batcomputer
+INITIALIZING PROFILE SYSTEMS...
+LOADING BAT-STATS [██████████] 100%
+WELCOME, COMMISSIONER
 ---
 
 ## 🏙️ Training in the Batcave
