@@ -1,12 +1,15 @@
-# 🦇 I am Soumyabrata Ghosh  
-## Data Enthusiast | AI Practitioner | Business Strategist | Educator  
 
-📍 Worcester, MA | 📧 [soumyabrata11411@gmail.com](mailto:soumyabrata11411@gmail.com) | 📞 508-353-8921  
+# 🦇 Soumyabrata Ghosh  
+## Data Vigilante | AI Craftsman | Business Strategist | Educator of Tomorrow
 
-![Gotham City](https://31.media.tumblr.com/227536fb9cfb2ea1f008a11e06b9c535/tumblr_mqrjdif8uo1sczn81o1_500.gif)
+📍 Worcester, MA  
+📧 [soumyabrata11411@gmail.com](mailto:soumyabrata11411@gmail.com)  
+📞 508-353-8921  
+🌐 [Portfolio Website](https://soghosh719.github.io/Soumya_Portfolio/#home)  
+💼 [LinkedIn](https://www.linkedin.com/in/soumyabrata-ghosh-205673290/)  
+💻 [GitHub](https://github.com/SoGhosh719)
 
-### **"It's not who I am underneath, but what I do that defines me."**  
-### **"You either die a noob, or live long enough to see yourself become the 10x developer."**
+> _"You either die a noob or live long enough to see yourself become the 10x developer."_
 
 ---
 
@@ -17,23 +20,25 @@ By night, I optimize pipelines and slay legacy systems.
 I believe in building robust, scalable, and ethical AI solutions with a touch of narrative flair.
 
 ### 🧠 Tech Stack & Tools  
-```bash
+\`\`\`bash
 Languages:     Python, SQL, R, JavaScript  
 Data:          Pandas, NumPy, Spark, Kafka  
 Modeling:      Scikit-learn, PyTorch, XGBoost  
 DevOps:        GitHub Actions, Docker, Streamlit  
 Visualization: Matplotlib, Seaborn, Tableau  
+\`\`\`
+
 ---
 
-## 🦇 `class GothamProtector:`
+## 🦇 class GothamProtector:
 
-```python
+\`\`\`python
 class GothamProtector:
     def __init__(self):
         self.cape = "black"
         self.skills = ["Python", "SQL", "Machine Learning", "Data Visualization"]
         self.rage_level = 0  # Batman doesn't get angry, he gets even
-    
+
     def save_gotham(self):
         while True:
             try:
@@ -45,29 +50,29 @@ class GothamProtector:
                 self.rage_level += 1
                 if self.rage_level > 9000:
                     self.summon_batmobile()
-
-🔧 Bat-Tech Inventory
-🛠️ Weaponized Skills
-- 🧠 Batarang Neural Nets – YOLO-based object detection
-
-- 💨 Cryptographic Smoke Bombs – AES-256 encryption implementations
-
--🪝 Grappling Hook APIs – RESTful services that never fail
-
--📡 Sonar Data Pipelines – Real-time streaming with Kafka
-
--🌲 Utility Belt ML Models – Random Forests that explain themselves
+\`\`\`
 
 ---
-🚘 Batmobile Upgrades
 
+## 🛠️ Bat-Tech Inventory
+
+- 🧠 **Batarang Neural Nets** — YOLO-based Object Detection  
+- 🔐 **Cryptographic Smoke Bombs** — AES-256 Encryption Pipelines  
+- ⚙️ **Grappling Hook APIs** — REST APIs That Never Miss  
+- 🌊 **Sonar Data Pipelines** — Real-Time Streaming via Kafka  
+- 🌲 **Utility Belt ML** — Random Forests With Actual Explanations  
+
+### 🚘 Batmobile Config
+\`\`\`json
 {
   "engine": "PyTorch",
   "armor": "Docker Containers",
   "weapons": ["Pandas DataFrames", "Spark Clusters"],
   "special_feature": "Auto-scaling Kubernetes Pods"
 }
+\`\`\`
 
+---
 
 ## 🧪 Latest Missions in Gotham (Projects)
 
@@ -83,40 +88,39 @@ class GothamProtector:
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoGhosh719&show_icons=true&theme=dark&icon_color=yellow)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoGhosh719&theme=highcontrast&fire=yellow&ring=gray)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoGhosh719&layout=compact&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SoGhosh719&theme=highcontrast&fire=yellow&ring=gray)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoGhosh719&layout=compact&theme=dark)
 
 ---
 
-## 🎭 Beyond Data Science
+## 🎭 Beyond the Code
 
-- 🍳 Cooked for **800+ people** at university events  
-- 🎭 Strategized for **Hanover Theatre's "A Christmas Carol"**  
-- 📖 Mentored students in **data analytics & chemistry**  
+- 🍽️ Cooked for **800+ people** at university events  
+- 🎯 Strategized for **Hanover Theatre's "A Christmas Carol"**  
+- 🧪 Mentored students in **Data Science & Chemistry**  
+- 🛠️ Hackathon Innovator – Builder of ClarkGPT & BUDA AI  
 
 ---
 
 ## 🏆 Certifications
 
-✔ **PCEP – Certified Entry-Level Python Programmer**  
-✔ **RCR Basic Curriculum (CITI Program, Exp. 2027)**  
-
----
-
-## 🦇 Drop the Bat Signal
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/soumyabrata-ghosh-205673290/)  
-- 💻 [GitHub](https://github.com/SoGhosh719)  
-- 🌐 [Portfolio](https://soghosh719.github.io/Soumya_Portfolio/#home)  
-- 📧 [soumyabrata11411@gmail.com](mailto:soumyabrata11411@gmail.com)  
+- ✅ **PCEP** – Entry-Level Python Programmer  
+- ✅ **CITI RCR** – Research Ethics Certified (Valid through 2027)  
 
 ---
 
 <details>
 <summary>🦇 Why Batman?</summary>
 
-Batman represents relentless preparation, analytical thinking, and using tools wisely —  
-just like in data science and strategy.  
-Also… who doesn’t love a bit of brooding excellence?
+Because Batman builds his tools.  
+He learns everything, prepares for everything, and relies not on powers, but relentless problem-solving.  
+He’s the perfect metaphor for a data scientist:  
+Analytical. Strategic. Creative. Resilient.
 
 </details>
+
+---
+
+📫 **Let’s Build Something That Matters**  
+Got a challenge, collaboration, or cool dataset?  
+[📧 Drop the Bat Signal](mailto:soumyabrata11411@gmail.com)
