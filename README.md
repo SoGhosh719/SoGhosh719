@@ -72,6 +72,27 @@ graph TD
 
 ---
 
+```python
+class GothamProtector:
+    def __init__(self):
+        self.cape = "black"
+        self.skills = ["Python", "SQL", "Machine Learning", "Data Visualization"]
+        self.rage_level = 0  # Batman doesn't get angry, he gets even
+
+    def save_gotham(self):
+        while True:
+            try:
+                analyze_crime_data()
+                deploy_ai_model()
+                self.update_bat_log()  # Because no one uses Jira in the Batcave
+            except Exception as e:
+                print(f"Joker's latest prank: {e}")
+                self.rage_level += 1
+                if self.rage_level > 9000:
+                    self.summon_batmobile()
+```
+---
+
 ## 🦇 Battle Experience (Professional Work)
 
 **Bharti AXA – Operations Commander (Baripada, India)**  
