@@ -52,68 +52,75 @@ class GothamProtector:
                 self.rage_level += 1
                 if self.rage_level > 9000:
                     self.summon_batmobile()
-🔧 Bat-Tech Inventory
-🛠️ Weaponized Skills
-🧠 Batarang Neural Nets – YOLO-based object detection
 
-💨 Cryptographic Smoke Bombs – AES-256 encryption implementations
+## 🔧 Bat-Tech Inventory
 
-🪝 Grappling Hook APIs – RESTful services that never fail
+### 🛠️ Weaponized Skills  
+- 🧠 **Batarang Neural Nets** – YOLO-based object detection  
+- 💨 **Cryptographic Smoke Bombs** – AES-256 encryption implementations  
+- 🪝 **Grappling Hook APIs** – RESTful services that never fail  
+- 📡 **Sonar Data Pipelines** – Real-time streaming with Kafka  
+- 🌲 **Utility Belt ML Models** – Random Forests that actually explain themselves  
 
-📡 Sonar Data Pipelines – Real-time streaming with Kafka
+---
 
-🌲 Utility Belt ML Models – Random Forests that actually explain themselves
-
-🚘 Batmobile Upgrades
-json
-Copy
-Edit
+### 🚘 Batmobile Upgrades  
+```json
 {
   "engine": "PyTorch",
   "armor": "Docker Containers",
   "weapons": ["Pandas DataFrames", "Spark Clusters"],
   "special_feature": "Auto-scaling Kubernetes Pods"
 }
-🧪 Latest Missions in Gotham (Projects)
-🚀 Latest Repositories (Auto-Updated Every 6 Hours)
 
-SoGhosh719
+## 🧪 Latest Missions in Gotham (Projects)
 
-Insurance_database
+🚀 **Latest Repositories (Auto-Updated Every 6 Hours)**  
+- [SoGhosh719](https://github.com/SoGhosh719/SoGhosh719)  
+- [Insurance_database](https://github.com/SoGhosh719/Insurance_database)  
+- [2D_to_3D_Floor-Plan](https://github.com/SoGhosh719/2D_to_3D_Floor-Plan)  
+- [Vibraille-Object-Detection](https://github.com/SoGhosh719/Vibraille-Object-Detection)  
+- [Lucity_Asset_Management_Implementation_Analysis](https://github.com/SoGhosh719/Lucity_Asset_Management_Implementation_Analysis)  
 
-2D_to_3D_Floor-Plan
+---
 
-Vibraille-Object-Detection
+## 📊 GitHub Stats
 
-Lucity_Asset_Management_Implementation_Analysis
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoGhosh719&show_icons=true&theme=dark&icon_color=yellow)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoGhosh719&theme=highcontrast&fire=yellow&ring=gray)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoGhosh719&layout=compact&theme=dark)  
 
-📊 GitHub Stats
+---
 
+## 🎭 Beyond Data Science
 
+- 🍳 Cooked for **800+ people** at university events  
+- 🎭 Strategized for **Hanover Theatre's "A Christmas Carol"**  
+- 📖 Mentored students in **data analytics & chemistry**  
 
+---
 
-🎭 Beyond Data Science
-🍳 Cooked for 800+ people at university events
-🎭 Strategized for Hanover Theatre's "A Christmas Carol"
-📖 Mentored students in data analytics & chemistry
+## 🏆 Certifications
 
+✔ **PCEP – Certified Entry-Level Python Programmer**  
+✔ **RCR Basic Curriculum (CITI Program, Exp. 2027)**  
 
+---
 
-🏆 Certifications
-✔ PCEP – Certified Entry-Level Python Programmer
-✔ RCR Basic Curriculum (CITI Program, Exp. 2027)
+## 🦇 Drop the Bat Signal
 
-🦇 Drop the Bat Signal
-💼 LinkedIn
-💻 GitHub
-🌐 Portfolio
-📧 soumyabrata11411@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/soumyabrata-ghosh-205673290/)  
+- 💻 [GitHub](https://github.com/SoGhosh719)  
+- 🌐 [Portfolio](https://soghosh719.github.io/Soumya_Portfolio/#home)  
+- 📧 [soumyabrata11411@gmail.com](mailto:soumyabrata11411@gmail.com)  
 
+---
 
+<details>
+<summary>🦇 Why Batman?</summary>
 
-<details> <summary>🦇 Why Batman?</summary>
-Batman represents relentless preparation, analytical thinking, and using tools wisely —
-just like in data science and strategy.
+Batman represents relentless preparation, analytical thinking, and using tools wisely —  
+just like in data science and strategy.  
 Also… who doesn’t love a bit of brooding excellence?
 
-</details> ```
+</details>
