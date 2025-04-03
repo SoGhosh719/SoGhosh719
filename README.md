@@ -9,6 +9,8 @@
 💼 [LinkedIn](https://www.linkedin.com/in/soumyabrata-ghosh-205673290/)  
 💻 [GitHub](https://github.com/SoGhosh719)
 
+![Gotham City](https://31.media.tumblr.com/227536fb9cfb2ea1f008a11e06b9c535/tumblr_mqrjdif8uo1sczn81o1_500.gif)
+
 > _"You either die a noob or live long enough to see yourself become the 10x developer."_
 
 ---
@@ -20,19 +22,19 @@ By night, I optimize pipelines and slay legacy systems.
 I believe in building robust, scalable, and ethical AI solutions with a touch of narrative flair.
 
 ### 🧠 Tech Stack & Tools  
-\`\`\`bash
+```bash
 Languages:     Python, SQL, R, JavaScript  
 Data:          Pandas, NumPy, Spark, Kafka  
 Modeling:      Scikit-learn, PyTorch, XGBoost  
 DevOps:        GitHub Actions, Docker, Streamlit  
 Visualization: Matplotlib, Seaborn, Tableau  
-\`\`\`
+```
 
 ---
 
 ## 🦇 class GothamProtector:
 
-\`\`\`python
+```python
 class GothamProtector:
     def __init__(self):
         self.cape = "black"
@@ -50,7 +52,7 @@ class GothamProtector:
                 self.rage_level += 1
                 if self.rage_level > 9000:
                     self.summon_batmobile()
-\`\`\`
+```
 
 ---
 
@@ -63,14 +65,14 @@ class GothamProtector:
 - 🌲 **Utility Belt ML** — Random Forests With Actual Explanations  
 
 ### 🚘 Batmobile Config
-\`\`\`json
+```json
 {
   "engine": "PyTorch",
   "armor": "Docker Containers",
   "weapons": ["Pandas DataFrames", "Spark Clusters"],
   "special_feature": "Auto-scaling Kubernetes Pods"
 }
-\`\`\`
+```
 
 ---
 
