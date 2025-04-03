@@ -1,4 +1,4 @@
-# 🦇 **Namaste!! I am Soumyabrata Ghosh**  
+# 🦇 I am Soumyabrata Ghosh**  
 ## **Data Enthusiast | AI Practitioner | Business Strategist | Educator**  
 
 📍 Worcester, MA | 📧 [soumyabrata11411@gmail.com](mailto:soumyabrata11411@gmail.com) | 📞 508-353-8921  
