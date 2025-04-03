@@ -51,7 +51,7 @@ graph TD
   A --> G[BI & Viz: Tableau, Power BI, Looker, Seaborn]
   A --> H[Web Dev: React, Next.js, APIs, Streamlit]
   A --> I[Deployment: Docker, GitHub Actions, Firebase, Railway]
-
+```
 ---
 
 ## 🧪 Missions from the Bat-Computer (Projects)
