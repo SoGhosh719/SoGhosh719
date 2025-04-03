@@ -13,12 +13,15 @@
 > _"You either die a noob or live long enough to see yourself become the 10x developer."_
 
 ---
+
 ![Batcomputer Bootup](https://i.imgur.com/Ezras4S.png)
 
 ```Batcomputer
-INITIALIZING PROFILE SYSTEMS...
-LOADING BAT-STATS [██████████] 100%
-WELCOME, COMMISSIONER
+> INITIALIZING PROFILE SYSTEMS...
+> CONNECTING TO GOTHAM CITY NETWORK...
+> AUTHENTICATION SUCCESSFUL: WELCOME, COMMISSIONER
+> LOADING BAT-STATS [██████████] 100%
+> MISSION LOG ACCESSED
 ---
 
 ## 🏙️ Training in the Batcave
