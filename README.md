@@ -22,7 +22,7 @@
 > AUTHENTICATION SUCCESSFUL: WELCOME, COMMISSIONER
 > LOADING BAT-STATS [██████████] 100%
 > MISSION LOG ACCESSED
-'''
+```
 ---
 
 ## 🏙️ Training in the Batcave
