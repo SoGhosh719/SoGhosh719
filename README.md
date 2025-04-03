@@ -1,4 +1,3 @@
-
 # 🦇 Soumyabrata Ghosh  
 ## Data Vigilante | AI Craftsman | Business Strategist | Educator of Tomorrow
 
@@ -22,6 +21,7 @@
 > AUTHENTICATION SUCCESSFUL: WELCOME, COMMISSIONER
 > LOADING BAT-STATS [██████████] 100%
 > MISSION LOG ACCESSED
+
 ---
 
 ## 🏙️ Training in the Batcave
@@ -42,15 +42,14 @@ _Aug 2018 – Dec 2019_
 
 ```mermaid
 graph TD
-  A[Bat-Skills] --> B[Python, R, SQL, TypeScript]
+  A[🦾 Bat-Skills] --> B[Python, R, SQL, TypeScript]
   A --> C[NLP: HuggingFace, TF-IDF, RAG, CAG]
-  A --> D[ML Models: XGBoost, SVM, KNN, RF]
+  A --> D[ML Models: XGBoost, SVM, KNN, Random Forest]
   A --> E[Big Data: Hadoop, Spark, Databricks]
   A --> F[Cloud: Azure, GCP]
   A --> G[BI & Viz: Tableau, Power BI, Looker, Seaborn]
-  A --> H[Web: React, Next.js, APIs, Streamlit]
+  A --> H[Web Dev: React, Next.js, APIs, Streamlit]
   A --> I[Deployment: Docker, GitHub Actions, Firebase, Railway]
-```
 
 ---
 
