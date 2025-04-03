@@ -2,127 +2,121 @@
 # 🦇 Soumyabrata Ghosh  
 ## Data Vigilante | AI Craftsman | Business Strategist | Educator of Tomorrow
 
-📍 Worcester, MA  
+📍 950 Main Street, Worcester, MA 01610  
 📧 [soumyabrata11411@gmail.com](mailto:soumyabrata11411@gmail.com)  
 📞 508-353-8921  
-🌐 [Portfolio Website](https://soghosh719.github.io/Soumya_Portfolio/#home)  
+🌐 [Portfolio](https://soghosh719.github.io/Soumya_Portfolio/#home)  
 💼 [LinkedIn](https://www.linkedin.com/in/soumyabrata-ghosh-205673290/)  
 💻 [GitHub](https://github.com/SoGhosh719)
 
-![Gotham City](https://31.media.tumblr.com/227536fb9cfb2ea1f008a11e06b9c535/tumblr_mqrjdif8uo1sczn81o1_500.gif)
-
+> _"It's not who I am underneath, but what I do that defines me."_  
 > _"You either die a noob or live long enough to see yourself become the 10x developer."_
 
 ---
 
-## 🕵️‍♂️ About Me
+## 🏙️ Education – Training in the Batcave
 
-By day, I analyze data.  
-By night, I optimize pipelines and slay legacy systems.  
-I believe in building robust, scalable, and ethical AI solutions with a touch of narrative flair.
+**🦇 Clark University – Gotham Division (Worcester, MA)**  
+*Master of Science in Business Analytics (GPA: 3.53)*  
+_Aug 2023 – Present_  
+- 🔍 Courses: Machine Learning, Predictive Analytics, BI, Statistical Modeling
 
-### 🧠 Tech Stack & Tools  
-```bash
-Languages:     Python, SQL, R, JavaScript  
-Data:          Pandas, NumPy, Spark, Kafka  
-Modeling:      Scikit-learn, PyTorch, XGBoost  
-DevOps:        GitHub Actions, Docker, Streamlit  
-Visualization: Matplotlib, Seaborn, Tableau  
-```
-
----
-
-## 🦇 class GothamProtector:
-
-```python
-class GothamProtector:
-    def __init__(self):
-        self.cape = "black"
-        self.skills = ["Python", "SQL", "Machine Learning", "Data Visualization"]
-        self.rage_level = 0  # Batman doesn't get angry, he gets even
-
-    def save_gotham(self):
-        while True:
-            try:
-                analyze_crime_data()
-                deploy_ai_model()
-                self.update_bat_log()  # Because no one uses Jira in the Batcave
-            except Exception as e:
-                print(f"Joker's latest prank: {e}")
-                self.rage_level += 1
-                if self.rage_level > 9000:
-                    self.summon_batmobile()
-```
+**🦇 IISWBM – League of Shadows (Kolkata, India)**  
+*PGDM in Business Analytics*  
+_Aug 2018 – Dec 2019_  
+- 💻 Capstone: Age Detection of Indian Actors (91% accuracy on 26K+ images)
 
 ---
 
 ## 🛠️ Bat-Tech Inventory
 
-- 🧠 **Batarang Neural Nets** — YOLO-based Object Detection  
-- 🔐 **Cryptographic Smoke Bombs** — AES-256 Encryption Pipelines  
-- ⚙️ **Grappling Hook APIs** — REST APIs That Never Miss  
-- 🌊 **Sonar Data Pipelines** — Real-Time Streaming via Kafka  
-- 🌲 **Utility Belt ML** — Random Forests With Actual Explanations  
-
-### 🚘 Batmobile Config
-```json
-{
-  "engine": "PyTorch",
-  "armor": "Docker Containers",
-  "weapons": ["Pandas DataFrames", "Spark Clusters"],
-  "special_feature": "Auto-scaling Kubernetes Pods"
-}
+```mermaid
+graph TD
+  A[Bat-Skills] --> B[Python, R, SQL, TypeScript]
+  A --> C[NLP: HuggingFace, TF-IDF, RAG, CAG]
+  A --> D[ML Models: XGBoost, SVM, KNN, RF]
+  A --> E[Big Data: Hadoop, Spark, Databricks]
+  A --> F[Cloud: Azure, GCP]
+  A --> G[BI & Viz: Tableau, Power BI, Looker, Seaborn]
+  A --> H[Web: React, Next.js, APIs, Streamlit]
+  A --> I[Deployment: Docker, GitHub Actions, Firebase, Railway]
 ```
 
 ---
 
-## 🧪 Latest Missions in Gotham (Projects)
+## 🧪 Missions from the Bat-Computer (Projects)
 
-🚀 **Latest Repositories (Auto-Updated Every 6 Hours)**  
-- [SoGhosh719](https://github.com/SoGhosh719/SoGhosh719)  
-- [Insurance_database](https://github.com/SoGhosh719/Insurance_database)  
-- [2D_to_3D_Floor-Plan](https://github.com/SoGhosh719/2D_to_3D_Floor-Plan)  
-- [Vibraille-Object-Detection](https://github.com/SoGhosh719/Vibraille-Object-Detection)  
-- [Lucity_Asset_Management_Implementation_Analysis](https://github.com/SoGhosh719/Lucity_Asset_Management_Implementation_Analysis)  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoGhosh719&show_icons=true&theme=dark&icon_color=yellow)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SoGhosh719&theme=highcontrast&fire=yellow&ring=gray)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoGhosh719&layout=compact&theme=dark)
-
----
-
-## 🎭 Beyond the Code
-
-- 🍽️ Cooked for **800+ people** at university events  
-- 🎯 Strategized for **Hanover Theatre's "A Christmas Carol"**  
-- 🧪 Mentored students in **Data Science & Chemistry**  
-- 🛠️ Hackathon Innovator – Builder of ClarkGPT & BUDA AI  
+- 🏥 **Hospital Readmission** – XGBoost model, 70% risk detection (ROC-AUC: 0.69)
+- 💰 **Commodities Forecasting** – Hybrid ARIMA + RF, 95% price prediction accuracy
+- 💓 **Chronic Disease Analysis** – Cardio-health trends with 89.5% accuracy
+- 🧠 **Twitter Sentiment Analyzer** – 1.6M tweets processed, GBM outperformed SVM/KNN
+- 🏫 **University Finder Bot** – Automated scraping/search via APIs (216 universities)
+- 🦾 **AI Job Assistant** – NLP + OCR + browser automation for job applications
+- ⚗️ **Bonding** – Chemistry community with Next.js + Firebase
+- 🎥 **Molecule Animator** – Converts chemical structures into video (Streamlit + OpenCV)
+- 🎭 **Hanover Theatre Strategy** – Targeted inclusive marketing plans for students
+- 💼 **Payroll System** – Automated small business payroll with tax compliance
+- 🚚 **Walmart SCM Case** – Deep dive into supply chain sustainability
+- 🏦 **National Bank Forecasting** – Regression model with R² = 0.87 from 22K+ records
+- 🏗️ **Lucity Asset Management** – Efficiency analysis for government infrastructure
 
 ---
 
-## 🏆 Certifications
+## 🦇 Battle Experience (Professional Work)
 
-- ✅ **PCEP** – Entry-Level Python Programmer  
-- ✅ **CITI RCR** – Research Ethics Certified (Valid through 2027)  
+**Bharti AXA – Operations Commander (Baripada, India)**  
+_Oct 2021 – Aug 2022_  
+- 🧠 AI-based automation → +31% productivity  
+- 💰 $52K revenue uplift via customer retention strategy  
+- 🏅 Ranked 19th nationwide in renewal collections  
+
+**HDFC Ergo – Tactical Financial Agent (Kolkata, India)**  
+_Jul 2019 – Oct 2021_  
+- 💹 +20% policy sales in Y1  
+- 🧾 Outperformed targets 90% of months  
+- 📊 Delivered customer analytics to boost retention
+
+**IIT Kanpur – ISMRITI Program Intern**  
+_Summer 2019_  
+- 🎞️ Flask recommender system using TF-IDF & cosine similarity  
+- 🔍 86.7% accuracy with real-time web interface
+
+---
+
+## 🏆 Bat-Suit Certifications
+
+- 🥷 **PCEP** – Entry-Level Python Programmer  
+- 🧬 **RCR CITI** – Research Ethics Certified (Valid through 2027)
+
+---
+
+## 🧠 Bat-Signal Toolkit (Tech Summary)
+
+| Domain | Skills |
+|--------|--------|
+| Languages | Python, R, SQL, JavaScript, TypeScript |
+| ML & AI | scikit-learn, XGBoost, TensorFlow, PyTorch |
+| NLP | Hugging Face, TF-IDF, SpaCy, NLTK |
+| Big Data | Spark, Hadoop, Databricks |
+| BI Tools | Tableau, Power BI, Looker, Seaborn |
+| Cloud | Azure, GCP, Firebase |
+| Web Dev | React, Streamlit, Flask, Next.js |
+| DevOps | Docker, GitHub Actions, Vercel |
+| Design | Figma, Mermaid.js, Lucidchart |
 
 ---
 
 <details>
 <summary>🦇 Why Batman?</summary>
 
-Because Batman builds his tools.  
-He learns everything, prepares for everything, and relies not on powers, but relentless problem-solving.  
-He’s the perfect metaphor for a data scientist:  
-Analytical. Strategic. Creative. Resilient.
+Because Batman is the ultimate analyst.  
+He prepares relentlessly, masters his tools, adapts to chaos, and never stops optimizing.  
+In a world full of uncertainty and noise, I strive to be the Dark Knight of Data — bringing clarity, logic, and strategy to every mission.
 
 </details>
 
 ---
 
-📫 **Let’s Build Something That Matters**  
-Got a challenge, collaboration, or cool dataset?  
-[📧 Drop the Bat Signal](mailto:soumyabrata11411@gmail.com)
+📬 **Let’s Team Up**  
+Have a mission, a challenge, or a mystery to solve?  
+Reach me via [📧 Bat Signal](mailto:soumyabrata11411@gmail.com)
