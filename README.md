@@ -10,27 +10,19 @@
 
 ---
 
-## 🏙️ Gotham’s Crime Syndicate of Bad Data  
-*Active Most Wanted List – Reward for Capture*  
+## 🕵️‍♂️ About Me
 
-🃏 **The Joker's Wild JSON**  
-> "Why so serious about schema validation?"  
-- **Wanted For:** Inconsistent data formats across Gotham PD databases  
-- **Bounty:** 500GB of cleaned, normalized data  
-- **Last Seen:** Laughing at a NaN value in Arkham patient records  
+By day, I analyze data.  
+By night, I optimize pipelines and slay legacy systems.  
+I believe in building robust, scalable, and ethical AI solutions with a touch of narrative flair.
 
-🐧 **The Penguin's Frozen Data Lake**  
-> "Ice to see you, analyst!"  
-- **Wanted For:** Unoptimized data warehouse costing Wayne Enterprises millions  
-- **Bounty:** A properly partitioned Delta Lake implementation  
-- **Last Seen:** Waddling away from a failed ETL job  
-
-🤖 **Bane's Broken Pipelines**  
-> "You merely adopted the data; I was born in it, molded by it."  
-- **Wanted For:** CI/CD pipelines that break production every full moon  
-- **Bounty:** A working GitHub Actions YAML file  
-- **Last Seen:** Pumping technical debt into Gotham's legacy systems  
-
+### 🧠 Tech Stack & Tools  
+```bash
+Languages:     Python, SQL, R, JavaScript  
+Data:          Pandas, NumPy, Spark, Kafka  
+Modeling:      Scikit-learn, PyTorch, XGBoost  
+DevOps:        GitHub Actions, Docker, Streamlit  
+Visualization: Matplotlib, Seaborn, Tableau  
 ---
 
 ## 🦇 `class GothamProtector:`
