@@ -14,10 +14,10 @@
 
 ---
 
-## 🏙️ Education – Training in the Batcave
+## 🏙️ Training in the Batcave
 
 **🦇 Clark University – Gotham Division (Worcester, MA)**  
-*Master of Science in Business Analytics (GPA: 3.53)*  
+*Master of Science in Business Analytics*  
 _Aug 2023 – Present_  
 - 🔍 Courses: Machine Learning, Predictive Analytics, BI, Statistical Modeling
 
