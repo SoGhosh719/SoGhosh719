@@ -14,6 +14,7 @@
 ---
 
 ![Batcomputer Bootup](https://i.imgur.com/Ezras4S.png)
+
 ---
 ```Batcomputer
 > INITIALIZING PROFILE SYSTEMS...
