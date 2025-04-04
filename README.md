@@ -15,6 +15,8 @@
 
 ![Batcomputer Bootup](https://i.imgur.com/Ezras4S.png)
 
+![GothamProtector Animation](assets/bat-animation.mp4)
+
 ---
 ```Batcomputer
 > INITIALIZING PROFILE SYSTEMS...
