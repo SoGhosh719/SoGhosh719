@@ -73,7 +73,6 @@ graph TD
 - 🏗️ **Lucity Asset Management** – Efficiency analysis for government infrastructure
 
 ---
----
 
 ## 🦇 Battle Experience (Professional Work)
 
