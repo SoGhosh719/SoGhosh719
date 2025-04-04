@@ -15,7 +15,7 @@
 
 ![Batcomputer Bootup](https://i.imgur.com/Ezras4S.png)
 
-![GothamProtector Animation](assets/bat-animation.mp4)
+![GothamProtector Animation](assets/bat-animation.gif)
 
 ---
 ```Batcomputer
